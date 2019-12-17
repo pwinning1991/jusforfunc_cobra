@@ -1,3 +1,3 @@
-module github.com/pwinning1991/jusforfun_cobra
+module github.com/pwinning1991/jusforfunc_cobra
 
 go 1.13
