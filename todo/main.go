@@ -15,8 +15,8 @@ limitations under the License.
 */
 package main
 
-import "todo/cmd"
+import "github.com/pwinning1991/jusforfunc_cobra/todo/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
